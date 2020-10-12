@@ -4,3 +4,4 @@ Well here we are, at the beginning of our coding journey, confused about the pat
 
 ## Day 1
 Started working on the project - Colors Choices Game.
+[Tweet link](https://twitter.com/Aniket_ydv/status/1315615408808841218)
