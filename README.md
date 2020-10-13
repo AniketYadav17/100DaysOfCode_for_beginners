@@ -10,6 +10,6 @@ Started working on the project - Colors Choices Game.
 ## Day 2
 
 Completed the CCG project and testing.
-Uploaded the project to github and completed the documentation.
+Uploaded the project to github and completed the documentation. [Tweet link](https://twitter.com/Aniket_ydv/status/1316034931634565126)
 
 ## Day 3
