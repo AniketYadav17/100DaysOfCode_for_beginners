@@ -8,6 +8,9 @@
 ### 6. And if the players agree restart the game again.
 ### 7. And if the player say "No" end the game and say thanks for the player.
 
+
+
+
 ## Let's break those notes down into steps?
 ### 1.Importing needed modules for our project.
 ### 2.Then we will define the main while loop and put the second while loop inside it.
