@@ -16,5 +16,5 @@ Uploaded the project to github and completed the documentation. [Tweet link](htt
 - Started to learn OOP concepts.
 -- Class and Instances 
 -- Class variables
--- Classsmethod and Staticmethod 
+-- Classsmethod and Staticmethod. 
 Learning from [Corey Shawfer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
